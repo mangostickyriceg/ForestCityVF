@@ -15,7 +15,7 @@ export default {
     'image': 'Ataraxia Park.jpg',
     'title': 'Ataraxia Park 11-A',
     'lead': '300 Units (2br)',
-    'description': 'Ataraxia park condo offers a private pool, free Wifi, and free private parking. `,
+    'description': 'Ataraxia park condo offers a private pool, free Wifi, and free private parking.',
     'contact': [
         '+41 21 316 34 45',
         'insert@ns.com'
