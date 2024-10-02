@@ -9,7 +9,7 @@ export default {
         '+41 21 316 34 45',
         'insert@ns.com'
     ],
-    'website': 'ns.com'
+    'website': 'https://ns.com/'
     },
     "ataraxia11A": {
     'image': '/images/Ataraxia-Park.jpg',
@@ -20,7 +20,7 @@ export default {
         '+41 21 316 34 45',
         'insert@ns.com'
     ],
-    'website': 'ns.com'
+    'website': 'https://ns.com/'
     },
     "ataraxia13G": {
     'image': '/images/Ataraxia-Park.jpg',
@@ -31,7 +31,7 @@ export default {
         '+41 21 318 44 00',
         'insert@ns.com'
     ],
-    'website': 'ns.com'
+    'website': 'https://ns.com/'
     },
     "starviewBay": {
     'image': '/images/Starview-Bay.jpg',
@@ -42,6 +42,6 @@ export default {
         '+41 21 318 44 00',
         'insert@ns.com'
     ],
-    'website': 'ns.com'
+    'website': 'https://ns.com/'
     }
 }
