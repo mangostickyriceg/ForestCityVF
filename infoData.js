@@ -1,7 +1,7 @@
 export default {
     // Object key (e.g. landmark, ataraxia11A, has to match the name of the object in Blender to open the info panel)
     "landmark": {
-    'image': '/images/Carnelian-Tower.jpg',
+    'image': '/images/Carnelian-Tower.png',
     'title': 'Landmark',
     'lead': '50 Units (1-2br)',
     'description': `45-story building comprising of residential units, offices and shops.`,
